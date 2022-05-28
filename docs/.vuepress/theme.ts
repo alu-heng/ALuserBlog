@@ -16,7 +16,7 @@ export default hopeTheme({
     logo: "/logo.svg",
 
     repo: "https://github.com/alu-heng/AluserBlog/",
-
+    repoDisplay: true,
     // docsDir: "/AluserBlog/docs",
 
     // navbar
